@@ -7,6 +7,7 @@ const newFun = () => {};
 
 const fn1 = () => {
   console.log("这是一段");
+  console.log("这是一1111段");
 };
 const fn2 = () => {
   console.log("这是一段");
