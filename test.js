@@ -8,3 +8,7 @@ const newFun = () => {};
 const fn = () => {
   console.log("这是一段");
 };
+
+const fn1 = () => {
+  console.log("这是一段hgg");
+};
