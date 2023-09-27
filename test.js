@@ -13,4 +13,5 @@ const fn2 = () => {
 };
 const fn3 = () => {
   console.log("这是一段");
+  console.log("newneenwwenw");
 };
