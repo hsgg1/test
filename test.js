@@ -11,6 +11,7 @@ const fn2 = () => {
 
 const fn1 = () => {
   console.log("这是一段hgg");
+  console.log("这是一段1111zzzzzzzzzzzzz");
 };
 
 const fn3 = () => {
