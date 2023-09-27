@@ -15,3 +15,8 @@ const fn4 = () => {
   console.log("这是一段");
   console.log("newneenwwenw");
 };
+
+const fn3 = () => {
+  console.log("这是一段hgg");
+  console.log("这是一段hgg");
+};
