@@ -5,12 +5,12 @@ console.log(2222);
 console.log(111);
 const newFun = () => {};
 
-const fn = () => {
+const fn1 = () => {
   console.log("这是一段");
 };
 const fn2 = () => {
   console.log("这是一段");
 };
-const fn3 = () => {
+const fn4 = () => {
   console.log("这是一段");
 };
