@@ -12,3 +12,7 @@ const fn2 = () => {
 const fn1 = () => {
   console.log("这是一段hgg");
 };
+
+const fn3 = () => {
+  console.log("这是一段hgg");
+};
