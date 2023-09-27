@@ -5,7 +5,7 @@ console.log(2222);
 console.log(111);
 const newFun = () => {};
 
-const fn = () => {
+const fn2 = () => {
   console.log("这是一段");
 };
 
