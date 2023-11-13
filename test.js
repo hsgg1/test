@@ -12,6 +12,7 @@ const fn1 = () => {
 const fn2 = () => {
   console.log("这是一段");
 };
+
 const fn4 = () => {
   console.log("这是一段");
   console.log("这是一段");
