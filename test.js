@@ -21,8 +21,3 @@ const fn4 = () => {
   console.log("newneenwwenw");
   console.log("newneenwwenw");
 };
-
-const fn3 = () => {
-  console.log("这是一段hgg");
-  console.log("这是一段hgg");
-};
